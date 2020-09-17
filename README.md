@@ -1,5 +1,5 @@
 # Aggregation-App
-Improved on the code written during my PhD and made a simple interface to produce aggregate distribution plots.
+(MATLAB APP) Improved on the code written during my PhD and made a simple interface to produce aggregate distribution plots.
 
 - - -
 This is one of the models produced during my PhD on Sonic Hedgehog (Shh). Shh is a protein that coordinates tissue growth and patterning in a wide variety of species. It is fundamentally important during early embryonic development as, in Shh mutants (Shh gene inactivated), offspring do not survive after birth (Chiang_1996). Shh functions by activating responses in cells that receive Shh signals. Often, Shh will travel to a cell from another, sometimes requiring long-range travelling (300 micromemters/30 cell diameters). The pattern by which Shh travels to cells over an area is often referred to its signalling gradient.
